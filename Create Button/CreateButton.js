@@ -8,7 +8,7 @@ function setup() {
 }
 
 function changeBG() {
-      let val1 = random(255);
+      let val1 = random(255); // hi
       let val2 = random(255);	
       let val3 = random(255);	
   background(val1,val2,val3);
